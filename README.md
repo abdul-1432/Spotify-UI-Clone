@@ -16,7 +16,7 @@ This project is a clone of the Spotify user interface built using HTML, CSS, and
 
 ## Demo
 
-You can see a live demo of the Spotify UI Clone [here](https://your-demo-link.com).
+You can see a live demo of the Spotify UI Clone [here](https://codepen.io/abdul-1432/pen/rNoVXax).
 
 ## Features
 
