@@ -33,7 +33,7 @@ You can see a live demo of the Spotify UI Clone [here](https://codepen.io/abdul-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/spotify-ui-clone.git
+   git clone https://github.com/abdul-1432/Spotify-UI-Clone
    ```
 
 2. Navigate to the project directory:
