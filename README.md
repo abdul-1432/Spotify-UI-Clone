@@ -1,6 +1,7 @@
 # Spotify UI Clone using HTML, CSS, and JavaScript
 
 ![1](https://github.com/abdul-1432/Spotify-UI-Clone/assets/124916666/4734607b-a18a-4c71-9e52-f7481d483e02)
+![2](https://github.com/abdul-1432/Spotify-UI-Clone/assets/124916666/2c0939c8-3bd7-4c90-8f53-f5104654f3c8)
 
 
 This project is a clone of the Spotify user interface built using HTML, CSS, and JavaScript. The aim of this project is to showcase the design and layout skills of the developer and demonstrate the ability to create a responsive and visually appealing user interface similar to Spotify's web app.
